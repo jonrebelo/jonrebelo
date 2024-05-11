@@ -9,7 +9,7 @@ I'm a financial services professional who has been working in the industry for m
 ## 🛠 Skills
 Python, Mortgages, Finance
 
-![PCEP Certication](https://images.credly.com/size/140x140/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png)
+[![PCEP Certication](https://images.credly.com/size/110x110/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png)]
 (https://www.credly.com/badges/0b25af4f-eb91-4564-8be7-9f10b5ef427a/public_url)
 
 ## 🔭 I’m currently working on
