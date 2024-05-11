@@ -15,7 +15,7 @@ Python, Mortgages, Finance
 My project [quantstats_ranaroussi_streamlit ](https://github.com/jonrebelo/quantstats_ranaroussi_streamlit) where I am working to add a front end user interface to the popular quantstats repository.
 
 ## 🌱 I’m currently learning
-Contiuing to learn Python and also learning how to incorporate AI into my background in mortgages and financial services.
+Continuing to learn Python and how to incorporate AI into my background in mortgages and financial services.
 
 ## 💬 Ask me about
 Anything related to Python, AI, Cryptocurrency, Investing, Boston Celtics, Cats.
