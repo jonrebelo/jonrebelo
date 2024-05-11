@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jonathan
 
-![Profile views](https://gpvc.arturio.dev/jonrebelo)  
+![Profile views](https://komarev.com/ghpvc/?username=jonrebelo)
 ![GitHub followers](https://img.shields.io/github/followers/jonrebelo?style=social)
 
 ## 🚀 About Me
