@@ -13,7 +13,7 @@ Python, Mortgages, Finance
 <a href="https://www.codiesalert.com/?cert_hash=dc7f4379a261257f"><img src="https://www.codiesalert.com/wp-content/uploads/tutor-certificates/qWDxmMvXwo-dc7f4379a261257f.jpg" width="325" height="250" alt="Advanced Blockchain Cert"></a>
 
 ## 🔭 I’m currently working on
-Multiple projects in Python that include basic apps, blockchain, AI, and more.
+Multiple projects in Python that include basic apps, blockchain projects, AI projects, and more.
 
 ## 🌱 I’m currently learning
 Continuing to learn Python and how to incorporate AI into my background in mortgages and financial services.
