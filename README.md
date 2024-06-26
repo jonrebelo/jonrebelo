@@ -12,6 +12,9 @@ Python, Mortgages, Finance
 [![PCEP Certication](https://images.credly.com/size/210x210/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png)](https://www.credly.com/badges/0b25af4f-eb91-4564-8be7-9f10b5ef427a/public_url)
 <a href="https://www.codiesalert.com/?cert_hash=dc7f4379a261257f"><img src="https://www.codiesalert.com/wp-content/uploads/tutor-certificates/qWDxmMvXwo-dc7f4379a261257f.jpg" width="325" height="250" alt="Advanced Blockchain Cert"></a>
 
+- PCEP Certified
+- Advanced Blockchain Course in Python Certificate
+- 
 ## 🔭 I’m currently working on
 Multiple projects in Python that include basic apps, blockchain projects, AI projects, and more.
 
