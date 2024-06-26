@@ -14,7 +14,7 @@ Python, Mortgages, Finance
 
 - PCEP Certified
 - Advanced Blockchain Course in Python Certificate
-- 
+  
 ## 🔭 I’m currently working on
 Multiple projects in Python that include basic apps, blockchain projects, AI projects, and more.
 
