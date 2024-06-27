@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/jonrebelo?style=social)
 
 ## 🚀 About Me
-I'm a financial services professional who has been working in the industry for more than 12 years. I started out at and eventually ended up working at Silicon Valley Bank before the infamous collapse in 2023. Since then I've been dedicating my time to learning Python and how to use artificial intelligence to bring my skills to the next level.
+I'm a financial services professional who has been working in the industry for more than 12 years. I started out at Leader Bank in Massachusetts and eventually ended up working at Silicon Valley Bank before the infamous collapse in 2023. Since then I've been dedicating my time to learning Python and how to use artificial intelligence to bring my skills to the next level.
 
 ## 🛠 Skills
 Python, Mortgages, Finance
